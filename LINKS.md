@@ -11,6 +11,7 @@ https://github.com/bluerobotics <br>
 
 Software Setup <br>
 https://bluerobotics.com/learn/bluerov2-software-setup/ <br>
+
 BlueRov Tether Interface <br>
 https://bluerobotics.com/store/rov/bluerov2-accessories/fxti-asm-r1-rp/ <br>
 
@@ -21,7 +22,6 @@ https://bluerobotics.com/store/comm-control-power/control/navigator/ <br>
 Open Source BlueRov controls GUI <br>
 https://www.ardusub.com/ <br>
 
-Open Source BlueROV flight controller GUI <br> 
 Open Source BlueROV flight controller autopilot GUI <br> 
 https://github.com/bluerobotics/navigator-lib <br>
 
