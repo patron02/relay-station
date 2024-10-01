@@ -1,13 +1,16 @@
-# Relay Station
-ECE 4435 Senior Design Project <br>
+# ping-protocol
 
-The purpose of this project is to build a floating relay station designed to extend the communication range between a base station and an underwater ROV, enabling control and data transmission withou physical tethering and allowing the simultaneous operation of multiple ROVs without entanglement.
+[![Last Releases](https://img.shields.io/github/release/bluerobotics/ping-protocol.svg)](https://github.com/bluerobotics/ping-protocol/releases) [![Discuss](https://img.shields.io/badge/discuss-online-green.svg)](https://discuss.bluerobotics.com/)
 
-Team:<br>
-Braulio Gonzalez <br>
-Kurt Rowland <br>
-Laura Patron <br>
-Moises Rodriguez <br>
-Sam Abbas <br>
+<a href="https://bluerobotics.com">
+<img src="https://avatars2.githubusercontent.com/u/7120633?v=3&s=150" align="right" hspace="10" vspace="6">
+</a>
 
-<img src="https://github.com/user-attachments/assets/21366a36-678b-4be8-b104-fd8436216121" width="400">
+The Ping Protocol is a binary communication format used by Blue Robotics sensors and devices.
+
+This repository contains:
+- the protocol specification
+- the message definitions
+- tools to help generate documentation and implementation source code (c++, python)
+
+The documentation is [here](https://docs.bluerobotics.com/ping-protocol).
