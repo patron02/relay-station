@@ -6,6 +6,9 @@ The purpose of this project is to build a floating relay station designed to ext
 BlueROV Specs <br>
 https://bluerobotics.com/store/rov/bluerov2/#:~:text=The%20BlueROV2%20is%20the%20world's%20most%20affordable%20high-performance%20subsea%20vehicle <br>
 
+Bluw ROV Github <br>
+https://github.com/bluerobotics <br>
+
 BlueRov Tether Interface <br>
 https://bluerobotics.com/store/rov/bluerov2-accessories/fxti-asm-r1-rp/ <br>
 
