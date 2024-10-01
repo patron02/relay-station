@@ -1,7 +1,3 @@
-# Relay Station
-
-The purpose of this project is to build a floating relay station designed to extend the communication range between a base station and an underwater ROV, enabling control and data transmission withou physical tethering and allowing the simultaneous operation of multiple ROVs without entanglement. 
-
 # ROV Specification
 BlueROV Specs <br>
 https://bluerobotics.com/store/rov/bluerov2/#:~:text=The%20BlueROV2%20is%20the%20world's%20most%20affordable%20high-performance%20subsea%20vehicle <br>
