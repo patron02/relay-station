@@ -10,4 +10,4 @@ Laura Patron <br>
 Moises Rodriguez <br>
 Sam Abbas <br>
 
-<img src="https://github.com/user-attachments/assets/21366a36-678b-4be8-b104-fd8436216121" width="200">
+<img src="https://github.com/user-attachments/assets/21366a36-678b-4be8-b104-fd8436216121" width="400">
